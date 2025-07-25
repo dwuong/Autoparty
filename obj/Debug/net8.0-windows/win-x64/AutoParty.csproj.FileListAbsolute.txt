@@ -1,0 +1,22 @@
+D:\ExileApi-Compiled-3.26.0.0.5\Plugins\Temp\ap\AutoParty.deps.json
+D:\ExileApi-Compiled-3.26.0.0.5\Plugins\Temp\ap\AutoParty.dll
+D:\ExileApi-Compiled-3.26.0.0.5\Plugins\Source\ap\obj\Debug\net8.0-windows\win-x64\AutoParty.csproj.AssemblyReference.cache
+D:\ExileApi-Compiled-3.26.0.0.5\Plugins\Source\ap\obj\Debug\net8.0-windows\win-x64\AutoParty.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExileApi-Compiled-3.26.0.0.5\Plugins\Source\ap\obj\Debug\net8.0-windows\win-x64\AutoParty.AssemblyInfoInputs.cache
+D:\ExileApi-Compiled-3.26.0.0.5\Plugins\Source\ap\obj\Debug\net8.0-windows\win-x64\AutoParty.AssemblyInfo.cs
+D:\ExileApi-Compiled-3.26.0.0.5\Plugins\Source\ap\obj\Debug\net8.0-windows\win-x64\AutoParty.csproj.CoreCompileInputs.cache
+D:\ExileApi-Compiled-3.26.0.0.5\Plugins\Source\ap\obj\Debug\net8.0-windows\win-x64\AutoParty.sourcelink.json
+D:\ExileApi-Compiled-3.26.0.0.5\Plugins\Source\ap\obj\Debug\net8.0-windows\win-x64\AutoParty.dll
+D:\ExileApi-Compiled-3.26.0.0.5\Plugins\Source\ap\obj\Debug\net8.0-windows\win-x64\refint\AutoParty.dll
+D:\ExileApi-Compiled-3.26.0.0.5\Plugins\Source\ap\obj\Debug\net8.0-windows\win-x64\ref\AutoParty.dll
+D:\ExileApi-Compiled-3.26.0.0.5\Plugins\Source\Auto Party\obj\Debug\net8.0-windows\win-x64\AutoParty.csproj.AssemblyReference.cache
+D:\ExileApi-Compiled-3.26.0.0.5\Plugins\Source\Auto Party\obj\Debug\net8.0-windows\win-x64\AutoParty.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExileApi-Compiled-3.26.0.0.5\Plugins\Source\Auto Party\obj\Debug\net8.0-windows\win-x64\AutoParty.AssemblyInfoInputs.cache
+D:\ExileApi-Compiled-3.26.0.0.5\Plugins\Source\Auto Party\obj\Debug\net8.0-windows\win-x64\AutoParty.AssemblyInfo.cs
+D:\ExileApi-Compiled-3.26.0.0.5\Plugins\Source\Auto Party\obj\Debug\net8.0-windows\win-x64\AutoParty.csproj.CoreCompileInputs.cache
+D:\ExileApi-Compiled-3.26.0.0.5\Plugins\Source\Auto Party\obj\Debug\net8.0-windows\win-x64\AutoParty.sourcelink.json
+D:\ExileApi-Compiled-3.26.0.0.5\Plugins\Source\Auto Party\obj\Debug\net8.0-windows\win-x64\AutoParty.dll
+D:\ExileApi-Compiled-3.26.0.0.5\Plugins\Source\Auto Party\obj\Debug\net8.0-windows\win-x64\refint\AutoParty.dll
+D:\ExileApi-Compiled-3.26.0.0.5\Plugins\Temp\Auto Party\AutoParty.deps.json
+D:\ExileApi-Compiled-3.26.0.0.5\Plugins\Temp\Auto Party\AutoParty.dll
+D:\ExileApi-Compiled-3.26.0.0.5\Plugins\Source\Auto Party\obj\Debug\net8.0-windows\win-x64\ref\AutoParty.dll

@@ -1,0 +1,2 @@
+Build failed:
+[25-Jul-25 10:26:07 PM, D:\ExileApi-Compiled-3.26.0.0.5\Plugins\Source\Auto Party\AutoParty.cs(25, 38)] CS1061: 'TextNode' does not contain a definition for 'OnValueEdited' and no accessible extension method 'OnValueEdited' accepting a first argument of type 'TextNode' could be found (are you missing a using directive or an assembly reference?)
